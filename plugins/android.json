@@ -1,0 +1,30 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.javi.ControlFuente"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.javi.ControlFuente"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.javi.ControlFuente"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.javi.ControlFuente"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.javi.ControlFuente"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.javi.ControlFuente"
+        }
+    },
+    "dependent_plugins": {}
+}
